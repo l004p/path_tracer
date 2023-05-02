@@ -1,0 +1,5 @@
+*.out
+**.dSYM/
+.vscode
+image.ppm
+.DS_Store
